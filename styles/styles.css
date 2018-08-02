@@ -3,6 +3,17 @@ body {
 	font: 16px Arial, Helvetica, sans-serif;
 }
 
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
 #principal {
 	width: 900px;
 }
@@ -17,13 +28,14 @@ body {
 	padding: 10px;
 }
 
-a {
-	color: #4b566a;
-	text-decoration: none;
-	font-weight: bold;
-	padding: 5px;
+#rodape {
+	text-align: center;
 }
 
 .centralizar {
 	text-align: center;
+}
+
+.img-campanha {
+	border: 10px solid #c3c3ae;
 }
